@@ -1,0 +1,6 @@
+Model_11 Train Score: 0.23 MSE (0.48 RMSE)
+Model_12 Train Score: 0.13 MSE (0.37 RMSE)
+Model_13 Train Score: 0.23 MSE (0.48 RMSE)
+Model_21 Train Score: 1.06 MSE (1.03 RMSE)
+Model_22 Train Score: 0.20 MSE (0.45 RMSE)
+Model_23 Train Score: 0.65 MSE (0.81 RMSE)
